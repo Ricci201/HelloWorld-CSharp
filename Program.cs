@@ -9,7 +9,6 @@
 
         Console.WriteLine("A soma é igual a:", soma);
         Console.WriteLine($"A soma é igual a:", +soma);
-
         Console.WriteLine("Hello, World!");
     }
 }
